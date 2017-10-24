@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Its time to sleep");
 		System.out.println("Its time to get up");
+		System.out.println("good night");//what to do
 	}
 
 }
